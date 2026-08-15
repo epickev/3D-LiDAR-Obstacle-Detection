@@ -2,7 +2,7 @@
 
 ## Demo
 
-[![3D LiDAR Obstacle Detection Demo](https://img.youtube.com/vi/IGpEfmUiyPU/maxresdefault.jpg)](https://www.youtube.com/watch?v=IGpEfmUiyPU)
+[![3D LiDAR Obstacle Detection Demo](https://img.youtube.com/vi/IGpEfmUiyPU/hqdefault.jpg)](https://www.youtube.com/watch?v=IGpEfmUiyPU)
 
 ## Overview
 
